@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "dom-to-image-more": "^3.5.0",
+    "dom-to-image-more": "^3.7.2",
     "html2canvas": "^1.4.1",
     "jspdf": "^3.0.4",
     "next": "16.0.10",
